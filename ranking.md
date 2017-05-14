@@ -4,7 +4,7 @@
 | 0.937853107345 | [jcvasquezc](https://github.com/jcvasquezc) | SVM | [repo](https://github.com/jcvasquezc/colomb-ia-supervised-emoDB/blob/master/emoDB_solucion.ipynb) |
 
 
-| Score problema 1 (high vs. low)| Usuario |	Algoritmo | Link Repo |
+| Score problema 1 (positive vs. negative)| Usuario |	Algoritmo | Link Repo |
 | - | - | - | - |
 | 0.80790960452 | [jcvasquezc](https://github.com/jcvasquezc) | SVM | [repo](https://github.com/jcvasquezc/colomb-ia-supervised-emoDB/blob/master/emoDB_solucion.ipynb) |
 
