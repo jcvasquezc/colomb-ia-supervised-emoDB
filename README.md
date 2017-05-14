@@ -33,7 +33,7 @@ donde `n_aciertos` es el numero de audios clasificados de forma correcta y `n_au
 * Esta es una base de datos pequeña, se recomienda el uso de técnicas clasicas de machine learning como arboles de decision o maquinas de soprte vectorial.
 
 ### Ejemplo y baseline
-Ver procedimiento de [solucion](https://github.com/colomb-ia/formato-retos#solucion).
+Ver procedimiento de [solucion](https://github.com/jcvasquezc/colomb-ia-supervised-emoDB/emoDB_solucion.ipynb).
 
 ##### Requerimientos
 *Indica los requerimientos para utilizar el codigo de tu solucion.*
@@ -58,16 +58,10 @@ cd colomb-ia-emoDB
 *Nota: reemplaza `{username}` con tu nombre de usuario de Github.*
 
 ### Requerimientos
-Para descargar y visualizar los datos necesitas Python 2 o 3. Las dependencias las puedes encontrar en el archivo `requirements.txt`, el cual incluye
+
 * numpy
 * jupyter
 * scipy
-Puedes instalarlas fácilmente utilizando el commando
-
-```bash
-pip install -r requirements.txt
-```
-Dependiendo de tu entorno puede que necesites instalar paquetes del sistema adicionales, si tienes problemas revisa la documentación de estas librerías.
 
 # Starter Code Python
 Para iniciar con este reto puedes correr el codigo de Python en Jupyter del archivo `emoDB.ipynb`. Este código que ayudará a cargar y visualizar algunas imágenes. Las dependencias son las mismas que se instalaron durante la descarga de los datos, ver [Requerimientos](#requerimientos).
