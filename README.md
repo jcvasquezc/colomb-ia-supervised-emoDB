@@ -33,7 +33,7 @@ donde `n_aciertos` es el numero de audios clasificados de forma correcta y `n_au
 * Esta es una base de datos pequeña, se recomienda el uso de técnicas clasicas de machine learning como arboles de decision o maquinas de soprte vectorial.
 
 ### Ejemplo y baseline
-Ver procedimiento de [solucion](https://github.com/jcvasquezc/colomb-ia-supervised-emoDB/emoDB_solucion.ipynb).
+Ver procedimiento de [solucion](https://github.com/jcvasquezc/colomb-ia-supervised-emoDB/emoDB.ipynb).
 
 ##### Requerimientos
 *Indica los requerimientos para utilizar el codigo de tu solucion.*
